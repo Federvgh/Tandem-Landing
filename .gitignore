@@ -1,0 +1,15 @@
+# Screenshots de verificación generados en dev (no son assets)
+tandem-*.png
+
+# Playwright MCP cache
+.playwright-mcp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
